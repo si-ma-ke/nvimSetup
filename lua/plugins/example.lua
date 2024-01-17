@@ -21,10 +21,6 @@ return {
   },
 
   {
-    "laytan/cloak.nvim",
-  },
-
-  {
     "mrcjkb/haskell-tools.nvim",
     version = "^3", -- Recommended
     ft = { "haskell", "lhaskell", "cabal", "cabalproject" },
