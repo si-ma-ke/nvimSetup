@@ -12,6 +12,11 @@ return {
   -- add gruvbox
   { "ellisonleao/gruvbox.nvim" },
 
+  {
+    "codota/tabnine-nvim",
+    build = "./dl_binaries.sh",
+  },
+
   -- Configure LazyVim to load gruvbox
   {
     "LazyVim/LazyVim",

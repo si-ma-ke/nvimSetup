@@ -29,4 +29,5 @@ require("cloak").setup({
 --]]
 return {
   "laytan/cloak.nvim",
+  "lervag/vimtex",
 }
