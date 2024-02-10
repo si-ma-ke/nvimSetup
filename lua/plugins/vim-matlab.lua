@@ -1,5 +1,6 @@
+if true then
+  return {}
+end
 return {
-  {
-    "daeyun/vim-matlab",
-  },
+  "BalderHolst/matlab.nvim",
 }
